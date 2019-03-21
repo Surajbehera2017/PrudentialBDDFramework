@@ -1,0 +1,8 @@
+{
+"cityNameInputField": "//*[@id='searchform']//input",
+"searchButton":"//form[@id='searchform']//button[@type='submit']",
+"cityNameLocator":"(//div[@id='forecast-list']//a)[1]",
+"NOTFoundMessage":"//div[@id='forecast-list']//div[@class='alert alert-warning']",
+"currentLocation":"//div[@id='weather-widget']/h2",
+"celsius":"//span[@id='metric']"
+}
